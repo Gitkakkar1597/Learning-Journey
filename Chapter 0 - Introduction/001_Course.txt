@@ -1,0 +1,3 @@
+This is a full-fledged python course divided into chapters and projects including DSA and OOPs
+Thsi course is focused on job aspects
+This course will teach how using python we can work on ML, making AI progarms, also includes Web Development, General Scripting, etc
